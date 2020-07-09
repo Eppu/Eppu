@@ -1,16 +1,15 @@
-### Hi there 👋
 
-<!--
-**Eppu/Eppu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Eetu Eskelinen - [eetueskelinen.com](https://ux.eetueskelinen.com) :dizzy:
 
-Here are some ideas to get you started:
+![The internet is my home.](https://i.giphy.com/media/ZbNJojSbuJvIIVGl2t/giphy.webp)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🖖🏻 Hello, I'm Eetu. I'm a UX engineer and developer hybrid currently working as lead developer at Kameratori.fi. I also occasionally lecture about web design at [Tampere University](https://www.tuni.fi/en). I like building stuff that people enjoy using. 
+
+On my free time I make music, watch lots of movies and shoot photos 📸.
+
+#### Get in touch:
+- My site 👨‍💻 – ux.eetueskelinen.com
+- Instagram 🌅 - [@eppu](https://www.instagram.com/eppu/)
+- LinkedIn 🤖 - [Eetu Eskelinen](https://www.linkedin.com/in/eetueskelinen/)
+
+
