@@ -8,7 +8,7 @@
 On my free time I make music, watch lots of movies and shoot photos 📸.
 
 #### Get in touch:
-- My site 👨‍💻 – ux.eetueskelinen.com
+- My site 👨‍💻 – [ux.eetueskelinen.com](https://ux.eetueskelinen.com)
 - Instagram 🌅 - [@eppu](https://www.instagram.com/eppu/)
 - LinkedIn 🤖 - [Eetu Eskelinen](https://www.linkedin.com/in/eetueskelinen/)
 
