@@ -1,5 +1,5 @@
 ### Eetu Eskelinen - [eetueskelinen.com](https://ux.eetueskelinen.com) :dizzy:
-![](https://visitor-badge.glitch.me/badge?page_id=Eppu.Eppu) 
+![](https://visitor-badge.glitch.me/badge?page_id=Eppu.Eppu)  ![](https://img.shields.io/github/followers/Eppu?style=social)
 
 <!-- ![Spinning on a chair thinking.](https://media.giphy.com/media/37Uer6MbSlFgA/giphy.gif) -->
 
