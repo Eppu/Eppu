@@ -1,4 +1,4 @@
-### Eetu Eskelinen - [eetueskelinen.com](https://ux.eetueskelinen.com) :dizzy:
+### Eetu Eskelinen :dizzy:
 [![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=Eppu.Eppu&title=Visitors)](https://github.com/eppu)  [![follower count](https://img.shields.io/github/followers/Eppu?style=social)](https://github.com/Eppu?tab=followers)
 
 <!-- ![Spinning on a chair thinking.](https://media.giphy.com/media/37Uer6MbSlFgA/giphy.gif) -->
