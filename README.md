@@ -1,7 +1,9 @@
-### Eetu Eskelinen 🌲
+### Eetu Eskelinen 
+
+<!-- <img src="https://i.giphy.com/media/3owyplYLWlGFQk9mF2/giphy.webp" width="50px"/> -->
 [![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=Eppu.Eppu&title=Visitors)](https://github.com/eppu)  [![follower count](https://img.shields.io/github/followers/Eppu?style=social)](https://github.com/Eppu?tab=followers)
 
-<!-- ![Spinning on a chair thinking.](https://media.giphy.com/media/37Uer6MbSlFgA/giphy.gif) -->
+
 
 <img src="https://raw.githubusercontent.com/Eppu/Eppu/master/gifs/hi.gif" width="24px"> Hello, I'm Eetu. I'm a UX engineer and full-stack developer hybrid currently working at [Futurice](https://futurice.com/). I used to work on [Kameratori.fi](https://kameratori.fi). I also occasionally lecture about web design at [Tampere University](https://www.tuni.fi/en). I like building stuff that people enjoy using. 
 
