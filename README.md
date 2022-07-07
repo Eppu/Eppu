@@ -4,7 +4,7 @@
 
 <img src="https://raw.githubusercontent.com/Eppu/Eppu/master/gifs/hi.gif" width="24px" height="24px"> Hello, I'm Eetu. I'm a UX engineer and full-stack developer hybrid currently working at [Futurice](https://futurice.com/). I also occasionally lecture about web design at [Tampere University](https://www.tuni.fi/en). I like building stuff that people enjoy using.
 
-On my free time I make music, watch lots of movies and shoot photos with old cameras 📸
+On my free time I make music, ride my motorcycle and shoot photos with old cameras 📸
 
 #### Get in touch:
 
