@@ -9,5 +9,4 @@ On my free time I make music, ride my motorcycle and shoot photos with old camer
 #### Get in touch:
 
 - My site 🍕 - [eetueskelinen.com](https://eetueskelinen.com)
-- Instagram 🌅 - [@eppu](https://www.instagram.com/eppu/)
 - LinkedIn 🤖 - [Eetu Eskelinen](https://www.linkedin.com/in/eetueskelinen/)
